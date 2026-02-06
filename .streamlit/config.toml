@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#7C3AED"              # Morado moderno (ML / IA)
+backgroundColor = "#F5F7FB"           # Fondo muy limpio
+secondaryBackgroundColor = "#FFFFFF"  # Tarjetas
+textColor = "#111827"                 # Gris oscuro elegante
+font = "sans serif"
